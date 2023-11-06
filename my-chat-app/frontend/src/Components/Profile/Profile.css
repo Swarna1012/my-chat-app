@@ -1,0 +1,44 @@
+.profile_container{
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+.profile_img_name{
+    margin-bottom: 40px;
+}
+.profile_pic{
+    width: 350px;
+    border-radius: 50%;
+}
+
+
+/* .profile_follows{
+    margin-left: 300px;
+} */
+
+.grid_follows{
+    justify-content: center;
+    padding: 20px;
+}
+
+.follow_content{
+    display: flex;
+}
+.follow_username{
+    padding-left: 10px;
+    padding-top: 15px;
+    font-size: 20px;
+}
+.follow_button{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid white;
+    color: white;
+    font-weight: 14px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-top: 10px;
+}
